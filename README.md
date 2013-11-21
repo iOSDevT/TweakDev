@@ -1,4 +1,3 @@
-TweakDev
-========
+The site is generated from the markdown (.md) files found in the folder "text". Each file will be joined at generation so the order matters, the order is acheived with the name. Try to keep each main section (<h1> or #) in its own file. If you want to add a new main header between two already existing sections/files just do as the "resources" section and change the name to x.y.z to make it sit inbetween them.
 
-Data for the tweak development guide at www.xxxxxx.com
+The files are not directly linked to the website, after a pull request I will download-generate-publish it. This is because the files on the website is static.
