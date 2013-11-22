@@ -224,7 +224,7 @@ The rest of the tweak is pretty straight forward. I just create some static vari
 	
 ### Meta-data
 
-TODO
+The meta-data of the settings-entry, that is.
 
 #### Changing the icon
 
@@ -234,7 +234,7 @@ Now go to the folder `/sliderchangerprefs/resources/` and put a `58x58` file her
 
 ## The final steps
 
-TODO
+These are the final steps before submitting the tweak to a repo. Some things to check/think about.
 
 ### Resetting the version
 
@@ -253,6 +253,8 @@ The repos have pretty straight forward submission links/processes.
 [MyRepoSpace](https://www.myrepospace.com/) if you want a private repo where you can manage everything by yourself, good for beta testing.  
 [BigBoss](http://www.thebigboss.org) is a default repo.  
 [ModMyi](http://www.modmyi.com) is also a default repo, although I don't have much experience with hosting here it seems as good as BigBoss.  
+
+Each website will have details on how to submit to it. If you ae unsure about something you will always be able to email the owners.  
 
 #### The identifiers
 
